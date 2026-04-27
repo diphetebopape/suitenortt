@@ -10,7 +10,7 @@ Have you recently purchased a Norton 360 subscription from a retail store and no
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://desknorton.vercel.app" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Norton</a>
+       <a href="https://desknorton.github.io/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Norton</a>
    </div>
 Whether you bought a boxed copy from a retail store, received a card with a license key, or got an email confirmation, this comprehensive walkthrough will help you use the activation code efficiently. By the end of this guide, you’ll know exactly how to complete your **Norton setup enter product key**, download the software, and secure your PC.
 
